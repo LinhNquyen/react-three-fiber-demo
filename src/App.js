@@ -1,3 +1,4 @@
+import "./App.css";
 import React, { Suspense, useRef } from "react";
 import {
   Canvas,
@@ -12,6 +13,22 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
 extend({ OrbitControls });
 
+const Loading = () => {
+  return (
+    <mesh visible position={[0, 0, 0]} rotation={[0, 0, 0]}>
+      <sphereGeometry attach="geometry" args={[1, 16, 16]} />
+      <meshStandardMaterial
+        attach="material"
+        color="white"
+        transparent
+        opacity={0.6}
+        roughness={1}
+        metalness={0}
+      />
+    </mesh>
+  );
+};
+
 const Model = () => {
   const mesh = useRef();
   const materials = useLoader(MTLLoader, "assets/ring3.mtl");
@@ -20,7 +37,7 @@ const Model = () => {
     materials.setMaterials(loader);
   });
 
-  return <primitive object={object} ref={mesh} />;
+  return <primitive object={object} ref={mesh} color="red" />;
 };
 
 const CameraControls = () => {
@@ -54,7 +71,7 @@ const App = () => {
       <ambientLight intensity={0.5} />
       <spotLight position={[150, 150, 150]} intensity={0.5} />
       <pointLight position={[0, 0, -20]} intensity={0.55} />
-      <Suspense fallback={null}>
+      <Suspense fallback={<Loading />}>
         <Model />
       </Suspense>
     </Canvas>
