@@ -1,0 +1,25 @@
+# Rhino
+newmtl Material_1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere 0b4dc57b-daf1-41ac-88ab-043aeac73499.png
+newmtl Material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 447c8bb7-0f84-4327-8933-4eada78f232f.png
+newmtl Material_3
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere 0b4dc57b-daf1-41ac-88ab-043aeac73499.png

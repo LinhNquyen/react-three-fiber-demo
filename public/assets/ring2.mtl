@@ -1,0 +1,345 @@
+# Rhino
+newmtl Material_1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 14243d62-d005-4c6a-9ead-e9aba92e8f7c.png
+newmtl Material_3
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_4
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_6
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_7
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_8
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_9
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_10
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_11
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_12
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_13
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_14
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_15
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_16
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_17
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_18
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_19
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_20
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_21
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_22
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_23
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_24
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_25
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_26
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_27
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_28
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_29
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_30
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_31
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+refl -type sphere c3036e78-60d2-43b6-9337-d0d1f20f2133.png
+newmtl Material_32
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_33
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_34
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_35
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_36
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_37
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_38
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_39
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_40
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_41
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_42
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
+newmtl Material_43
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.8
+Ns 0
+refl -type sphere 068c6f6f-8bf0-4088-bfcf-b1ddada61a5e.png
